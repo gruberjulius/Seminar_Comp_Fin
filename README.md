@@ -8,6 +8,8 @@ Code for the Seminar in Computational Finance.
 bash install.sh
 ```
 
+I would recommend setting it up in a virtual enviroment. I tried it out with conda, but it was easier with the basic venv package.
+
 The demo_ABIDES-Markets.ipynb file contains a simulation script, where one can set different parameters for the following parameters and look at the behaviour when simulated on an exchange:
 
 * Number of Market Makers
