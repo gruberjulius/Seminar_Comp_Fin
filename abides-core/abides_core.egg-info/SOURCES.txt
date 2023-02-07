@@ -1,3 +1,4 @@
+.DS_Store
 README.md
 setup.cfg
 setup.py
@@ -13,4 +14,7 @@ abides_core.egg-info/PKG-INFO
 abides_core.egg-info/SOURCES.txt
 abides_core.egg-info/dependency_links.txt
 abides_core.egg-info/top_level.txt
+dist/abides_core-0.0.0-py3.8.egg
 scripts/abides
+tests/test_generators.py
+tests/test_timestamps.py
