@@ -4,7 +4,7 @@ Code for the Seminar in Computational Finance.
 
 ### Setup Instructions(only tested under Ubuntu and MacOS):
 
-
+```
 bash install.sh
 ```
 
