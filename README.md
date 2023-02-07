@@ -1,4 +1,4 @@
-#Seminar in Computational Finance
+# Seminar in Computational Finance
 
 Code for the Seminar in Computational Finance.
 
