@@ -49,9 +49,9 @@ Visualisations for different amount of participants:
 * 10000 Noise Agents
 * Spreads tend to stay smaller
 
-![Standard Setting](plots/10000_noisyL1.pdf)
+![Standard Setting](/plots/10000_noisyL1.pdf)
 
-![Standard Setting](plots/10000_noisyL2.pdf)
+![Standard Setting](/plots/10000_noisyL2.pdf)
 
 ### More Momentum Agents: 
 * 2 Market Makers
