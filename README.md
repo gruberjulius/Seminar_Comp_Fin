@@ -27,9 +27,9 @@ Visualisations for different amount of participants:
 * 12 Momentum Agents
 * 1000 Noise Agents
 
-![Standard Setting](plots/basicL1.pdf)
+![Standard Setting](https://github.com/jgruber99/Seminar_Comp_Fin/blob/master/plots/basicL1.pdf)
 
-![Standard Setting](plots/basicL2.pdf)
+![Standard Setting](https://github.com/jgruber99/Seminar_Comp_Fin/blob/master/plots/basicL2.pdf)
 
 ### More Market Makers: 
 * 5 Market Makers
@@ -38,9 +38,9 @@ Visualisations for different amount of participants:
 *   1000 Noise Agents
 * Tighter Spreads in all cases
 
-![Standard Setting](plots/5_market_makerL1.pdf)
+![Standard Setting](https://github.com/jgruber99/Seminar_Comp_Fin/blob/master/plots/5_market_makerL1.pdf)
 
-![Standard Setting](plots/5_market_makerL2.pdf)
+![Standard Setting](https://github.com/jgruber99/Seminar_Comp_Fin/blob/master/plots/5_market_makerL2.pdf)
 
 ### More Noise Agents: 
 * 2 Market Makers
